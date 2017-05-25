@@ -1,0 +1,1 @@
+#hash((doc . "Hello world") (metas . #hasheq((here-path . "/Users/samueldibella/Desktop/Projects/pollen-learning/pollenTest.txt.pp"))))

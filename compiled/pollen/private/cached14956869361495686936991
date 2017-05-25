@@ -1,0 +1,1 @@
+#hash((doc . (root (h2 "Pollen markup") "\n" "\n" (ul (li (p "You " (strong "wanted") " it — you " (em "got") " it.")) "\n" (li (p (a ((href "https://google.com/search?q=racket")) "search for Racket")))) "\n")) (metas . #hasheq((here-path . "/Users/samueldibella/Desktop/Projects/pollen-learning/uptown.html.pm"))))
