@@ -1,0 +1,1 @@
+#hash((doc . "My name is _Brennan_, and I enjoy:\n\n+ boring sauce\n\n+ 24 fish nuggets\n") (metas . #hasheq((here-path . "/Users/samueldibella/Desktop/Projects/pollen-learning/6_tutorial/brennan.md.pp"))))
