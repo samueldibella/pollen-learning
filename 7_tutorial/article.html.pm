@@ -1,9 +1,6 @@
 #lang pollen
+◊(require racket/math)
+◊p{Pi is close to ◊(number->string pi).}
+◊p{The hyperbolic sine of pi is close to ◊(number->string (sinh pi)).}
 
-◊(define (strong word) "Arg")
-
-I want to ◊verb{attend} ◊em{◊event{RacketCon} ◊strong{this} year.}
-
-◊div[#:class "author" #:id "primary" #:living "true"]{Prof. Leonard}
-
-◊div[#:class "red" #:style "font-size:150%"]{Important ◊em{News}}
+—◊strong{◊|author|}
